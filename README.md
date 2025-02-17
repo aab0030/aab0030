@@ -2,8 +2,8 @@
   <h1>Holaa, soy Ángel Alamilla 👋</h1>
 </div>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/8CVl1AQ" data-context="false" ><a href="//imgur.com/a/8CVl1AQ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+<img src="https://imgur.com/a/8CVl1AQ">
 <!--
 **aab0030/aab0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
