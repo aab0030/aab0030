@@ -22,7 +22,7 @@
     <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" width="50px"></td>
     <td><img src="https://miro.medium.com/v2/resize:fit:880/1*IYIP9I9YhfuLsBlxgVfiVQ.png" width="100px"></td>
     <td><img src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" width="100px"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="100px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50px"></td>
   </tr>
 </table>
 
