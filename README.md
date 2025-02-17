@@ -23,6 +23,7 @@
     <td><img src="https://miro.medium.com/v2/resize:fit:880/1*IYIP9I9YhfuLsBlxgVfiVQ.png" width="100px"></td>
     <td><img src="https://e7.pngegg.com/pngimages/617/252/png-clipart-mysql-workbench-computer-icons-logo-database-server-blue-text.png" width="100px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="66px"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="66px"></td>
   </tr>
 </table>
 
