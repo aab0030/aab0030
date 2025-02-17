@@ -3,7 +3,7 @@
 </div>
 
 
-<img src="https://imgur.com/a/8CVl1AQ">
+<img src="https://i.imgur.com/MaOKktx.jpeg">
 <!--
 **aab0030/aab0030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
