@@ -9,7 +9,7 @@
 <ul>
   <li>Web Developer</li>
   <li>19 años</li>
-  <h1>Vivo en Málaga</h1>
+  <li>Vivo en Málaga</li>
 </ul>
 
 <h2>Lenguajes y tecnologías</h2>
