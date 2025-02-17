@@ -5,7 +5,7 @@
 
 <img src="https://i.imgur.com/N9DNRH6.jpeg">
 
-<h2>Sobre mí</h2>
+<h2>Sobre mí👀</h2>
 <ul>
   <li>Web Developer</li>
   <li>19 años</li>
