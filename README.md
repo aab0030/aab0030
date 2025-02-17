@@ -13,7 +13,7 @@
 </ul>
 
 <h2>Lenguajes y tecnologías</h2>
-<table>
+<table border="0">
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" width="50px"></td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="50px"></td>
